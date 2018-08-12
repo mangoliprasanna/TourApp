@@ -24,17 +24,14 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
         ViewPager viewPager = (ViewPager) findViewById(R.id.viewPager);
         CustomPagerAdapter customPagerAdapter = new CustomPagerAdapter(getSupportFragmentManager());
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
-
 
         customPagerAdapter.add(new PlaceFragment(), getString(R.string.tab_1));
         customPagerAdapter.add(new RestaurantFragment(), getString(R.string.tab_2));
         customPagerAdapter.add(new ShoppingFragment(), getString(R.string.tab_3));
         customPagerAdapter.add(new NearByFragment(), getString(R.string.tab_4));
-
 
         viewPager.setAdapter(customPagerAdapter);
         tabLayout.setupWithViewPager(viewPager);

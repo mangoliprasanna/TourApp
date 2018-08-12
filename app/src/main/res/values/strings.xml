@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Bangalore</string>
 
+    <string name="tab_1">Places</string>
+    <string name="tab_2">Restaurant</string>
+    <string name="tab_3">Shopping</string>
+    <string name="tab_4">Nearby</string>
+
     <string name="vidhanSoudh">Vidhana Soudha</string>
     <string name="vidhanSoudha_rating">4.5</string>
     <string name="vidhanSoudha_desc">
@@ -68,5 +73,30 @@
     <string name="centralMall">Square Mall</string>
     <string name="centralMall_desc">"people can enjoy an affordable shopping experience."</string>
     <string name="centralMall_rating">3.1</string>
+
+
+
+    <string name="nearBy_1">Mysore</string>
+    <string name="nearBy_1_desc">Historical Heritage</string>
+    <string name="nearBy_1_rating">5.0</string>
+
+    <string name="nearBy_2">Shivanasamudra Falls</string>
+    <string name="nearBy_2_desc">Waterfall</string>
+    <string name="nearBy_2_rating">4.3</string>
+
+    <string name="nearBy_3">Hogenakkal</string>
+    <string name="nearBy_3_desc">Waterfall</string>
+    <string name="nearBy_3_rating">4.7</string>
+
+    <string name="nearBy_4">Horsley Hills</string>
+    <string name="nearBy_4_desc"> Hill Station</string>
+    <string name="nearBy_4_rating">4.5</string>
+
+    <string name="nearBy_5">Bannerghatta National Park</string>
+    <string name="nearBy_5_desc">Wildlife, At a distance of 23 km</string>
+    <string name="nearBy_5_rating">5.0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
