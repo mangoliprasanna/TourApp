@@ -30,9 +30,10 @@ public class MainActivity extends AppCompatActivity {
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
 
 
-        customPagerAdapter.add(new PlaceFragment(), "Places");
-        customPagerAdapter.add(new RestaurantFragment(), "Restaurant");
-        customPagerAdapter.add(new ShoppingFragment(), "Shopping");
+        customPagerAdapter.add(new PlaceFragment(), getString(R.string.tab_1));
+        customPagerAdapter.add(new RestaurantFragment(), getString(R.string.tab_2));
+        customPagerAdapter.add(new ShoppingFragment(), getString(R.string.tab_3));
+        customPagerAdapter.add(new NearByFragment(), getString(R.string.tab_4));
 
 
         viewPager.setAdapter(customPagerAdapter);
