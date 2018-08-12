@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Bangalore</string>
+
+    <string name="vidhanSoudh">Vidhana Soudha</string>
+    <string name="vidhanSoudha_rating">4.5</string>
+    <string name="vidhanSoudha_desc">
+        "Historical Place."
+    </string>
+
+    <string name="cubbonPark">Cubbon Park</string>
+    <string name="cubbonPark_rating">3.0</string>
+    <string name="cubbonPark_desc">
+        "Park. also called ad 'Lung of City'"
+    </string>
+
+    <string name="lalBagh">Lal Bagh</string>
+    <string name="lalBagh_rating">3.5</string>
+    <string name="lalBagh_desc">
+        "Lalbagh or Lalbagh Botanical Gardens."
+    </string>
+
+    <string name="wonderLa">Wonderla</string>
+    <string name="wonderLa_rating">4.5</string>
+    <string name="wonderLa_desc">
+        "Amusement park. 28 kilometres from City"
+    </string>
+
+    <string name="iskontempl">ISKCON Temple</string>
+    <string name="iskontempl_rating">4.6</string>
+    <string name="iskontempl_desc">
+        "Sri Radha Krishna Temple."
+    </string>
+
+    <string name="restaurant_1">Hakuna Matata</string>
+    <string name="restaurant_1_desc">Bangalore, Karanataka</string>
+    <string name="restaurant_1_rating">4.3</string>
+
+    <string name="restaurant_2">Kesariya Restaurant</string>
+    <string name="restaurant_2_desc">Rajasthani restaurant.</string>
+    <string name="restaurant_2_rating">4.0</string>
+
+    <string name="restaurant_3">Bengali in Bangalore</string>
+    <string name="restaurant_3_desc">JP Nagar 7th Phase, Bengaluru,</string>
+    <string name="restaurant_3_rating">3.7</string>
+
+    <string name="restaurant_4">Edo Japanese</string>
+    <string name="restaurant_4_desc">"Japanese entrees."</string>
+    <string name="restaurant_4_rating">3.2</string>
+
+    <string name="restaurant_5">Taaza Thindi</string>
+    <string name="restaurant_5_desc">"Jayanagara 9th Block"</string>
+    <string name="restaurant_5_rating">3.0</string>
+
+
+    <string name="orionMall">Orion Mall</string>
+    <string name="orionMall_desc">"PVR movies, Bowling and much more."</string>
+    <string name="orionMall_rating">5.0</string>
+
+    <string name="phoneix">Phoenix Market City</string>
+    <string name="phoneix_desc">"for kids, elders, handicapped etc."</string>
+    <string name="phoneix_rating">4.3</string>
+
+
+    <string name="squareMall">Square Mall</string>
+    <string name="squareMall_desc">"food services are amazingly welcoming. "</string>
+    <string name="squareMall_rating">4.1</string>
+
+    <string name="centralMall">Square Mall</string>
+    <string name="centralMall_desc">"people can enjoy an affordable shopping experience."</string>
+    <string name="centralMall_rating">3.1</string>
+
+</resources>
